@@ -3,8 +3,8 @@ Is a repository where you can find a name for your project and/or propose a name
 
 ## A
 
-- **Athena**
-- **Arcturus**
+- Athena
+- Arcturus
 
 ## B
 ## C
@@ -13,27 +13,27 @@ Is a repository where you can find a name for your project and/or propose a name
 ## F
 ## G
 
-- **Ghost**
-- **Gliese581G**
+- Ghost
+- Gliese581G
 
 ## H
 
-- **Hive**
+- Hive
 
 ## I
 
-- **Icarus**
+- Icarus
 
 ## J
 ## K
 
-- **Kepler62**
+- Kepler62
 
 ## L
 ## M
 ## N
 
-- **Nexxus**
+- Nexxus
 
 ## O
 ## P
@@ -41,22 +41,22 @@ Is a repository where you can find a name for your project and/or propose a name
 ## R
 ## S
 
-- **Spectre**
-- **Sirius**
+- Spectre
+- Sirius
 
 ## T
 
-- **Thannatos**
+- Thannatos
 
 ## U
 ## V
 
-- **Vega**
+- Vega
 
 ## W
 
-- **White**
-- **Wraith**
+- White
+- Wraith
 
 ## X
 ## Y
