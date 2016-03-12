@@ -10,12 +10,15 @@ Is a repository where you can find a name for your project and/or propose a name
 ## G
 ## H
 ## I
+
 - **Icarus**
+
 ## J
 ## K
 ## L
 ## M
 ## N
+
 - **Nexxus**
 
 ## O
@@ -23,13 +26,19 @@ Is a repository where you can find a name for your project and/or propose a name
 ## Q
 ## R
 ## S
+
 - **Spectre**
+
 ## T
+
 - **Thannatos**
+
 ## U
 ## V
 ## W
+
 - **White**
+
 ## X
 ## Y
 ## Z
