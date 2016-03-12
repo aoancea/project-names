@@ -10,16 +10,26 @@ Is a repository where you can find a name for your project and/or propose a name
 ## G
 ## H
 ## I
-## J
-## J
-## J
-
-
-	
-	
-	
-- **Nexxus**
-- **White**
 - **Icarus**
+## J
+## K
+## L
+## M
+## N
+- **Nexxus**
+
+## O
+## P
+## Q
+## R
+## S
 - **Spectre**
+## T
 - **Thannatos**
+## U
+## V
+## W
+- **White**
+## X
+## Y
+## Z
