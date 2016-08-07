@@ -61,6 +61,9 @@ Is a repository where you can find a name for your project and/or propose a name
 
 ## Q
 ## R
+
+- Ragnar
+
 ## S
 
 - Spectre
@@ -69,6 +72,7 @@ Is a repository where you can find a name for your project and/or propose a name
 ## T
 
 - Thanatos
+- Thanos
 
 ## U
 ## V
