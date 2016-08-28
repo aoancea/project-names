@@ -78,6 +78,7 @@ Is a repository where you can find a name for your project and/or propose a name
 ## V
 
 - Vega
+- Valhalla
 
 ## W
 
