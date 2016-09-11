@@ -68,11 +68,13 @@ Is a repository where you can find a name for your project and/or propose a name
 
 - Spectre
 - Sirius
+- Suramar
 
 ## T
 
 - Thanatos
 - Thanos
+- Thalyssra
 
 ## U
 ## V
