@@ -15,6 +15,9 @@ Is a repository where you can find a name for your project and/or propose a name
 - Bubba
 
 ## C
+
+- Chronos
+
 ## D
 
 - Daedalus
