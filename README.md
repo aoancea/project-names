@@ -40,6 +40,7 @@ Is a repository where you can find a name for your project and/or propose a name
 ## H
 
 - Hive
+- Hermes
 
 ## I
 
@@ -63,11 +64,15 @@ Is a repository where you can find a name for your project and/or propose a name
 - Nathanos
 
 ## O
+
+- Osiris
+
 ## P
 
 - Pollux
 - Phobos
 - Planck
+- Platon
 
 ## Q
 ## R
