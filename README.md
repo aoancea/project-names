@@ -9,6 +9,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Azazel
 - Archon
 - Aggramar
+- Artanis
 
 ## B
 
@@ -91,6 +92,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Thanos
 - Thalyssra
 - Theryn
+- Tassadar
 
 ## U
 ## V
