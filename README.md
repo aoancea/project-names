@@ -99,6 +99,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Thalyssra
 - Theryn
 - Tassadar
+- Tesseract
 
 ## U
 ## V
