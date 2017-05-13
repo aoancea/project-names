@@ -12,6 +12,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Artanis
 - Avalon
 - Asylum
+- Arctodus
 
 ## B
 
