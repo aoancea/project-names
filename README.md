@@ -13,6 +13,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Avalon
 - Asylum
 - Arctodus
+- Aymara
 
 ## B
 
@@ -50,6 +51,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Hive
 - Hermes
 - Hydrus
+- Herakles
 
 ## I
 
@@ -60,11 +62,14 @@ Is a repository where you can find a name for your project and/or propose a name
 ## K
 
 - Kepler62
+- Krakatau
 
 ## L
 ## M
 
 - Monod
+- Maleas
+- Matapan
 
 ## N
 
@@ -104,6 +109,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Theryn
 - Tassadar
 - Tesseract
+- Tainaron
 
 ## U
 ## V
