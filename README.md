@@ -23,6 +23,7 @@ Is a repository where you can find a name for your project and/or propose a name
 
 - Chronos
 - Cygnus
+- Calgacus
 
 ## D
 
@@ -110,6 +111,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Tassadar
 - Tesseract
 - Tainaron
+- Tacitus
 
 ## U
 ## V
