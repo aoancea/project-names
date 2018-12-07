@@ -36,6 +36,7 @@ Is a repository where you can find a name for your project and/or propose a name
 - Everest
 - Epicurus
 - Enceladus
+- Eridanus
 
 ## F
 
